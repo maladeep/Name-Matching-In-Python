@@ -1,6 +1,6 @@
 # Surprisingly Effective Way To Name Matching In Python
 
-
+![GitHub forks](https://img.shields.io/github/forks/maladeep/Name-Matching-In-Python?style=plastic)            ![GitHub Repo stars](https://img.shields.io/github/stars/maladeep/Name-Matching-In-Python?style=plastic)
 
 ![Image](headerroomtype.png)
 
